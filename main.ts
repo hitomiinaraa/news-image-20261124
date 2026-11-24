@@ -1,3 +1,4 @@
+// Revision: newspaper front page, Nvidia lead story.
 // News image v2: copy entry.png to the output dir byte-for-byte, with a size self-check.
 import { copyFileSync, mkdirSync, statSync } from "node:fs";
 import { join } from "node:path";
