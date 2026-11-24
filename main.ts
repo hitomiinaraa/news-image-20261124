@@ -1,3 +1,4 @@
+// Revision pass: one image, one day, 24 November 2026.
 // News-image entry (Node 22, standard library only): copies the entry.png
 // beside this file to /output/entry.png, byte-for-byte, and refuses to
 // write a file bigger than the 1 MiB gate. The image itself is the entry;
